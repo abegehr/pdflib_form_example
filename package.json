@@ -1,0 +1,16 @@
+{
+  "name": "pdflib_form_example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "abegehr",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "pdf-lib": "^1.17.1"
+  }
+}
